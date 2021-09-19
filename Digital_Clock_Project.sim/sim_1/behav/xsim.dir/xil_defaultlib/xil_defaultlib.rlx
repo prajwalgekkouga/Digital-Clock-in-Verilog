@@ -1,0 +1,10 @@
+0.6
+2016.4
+Jan 23 2017
+19:37:30
+C:/Users/prajw/Digital_Clock_Project/Digital_Clock_Project.sim/sim_1/behav/glbl.v,1485222234,verilog,,,,glbl,,,,,,,,
+C:/Users/prajw/Digital_Clock_Project/Digital_Clock_Project.srcs/sim_1/new/stopwatch_test.v,1630477730,verilog,,,,stopwatch_stimulus,,,,,,,,
+C:/Users/prajw/Digital_Clock_Project/Digital_Clock_Project.srcs/sources_1/new/stopwatch_clock.v,1630428313,verilog,,,,stopwatch_clock_24,,,,,,,,
+C:/Users/prajw/Digital_Clock_Project/Digital_Clock_Project.srcs/sources_1/new/stopwatch_hours.v,1630477959,verilog,,,,stopwatch_hour,,,,,,,,
+C:/Users/prajw/Digital_Clock_Project/Digital_Clock_Project.srcs/sources_1/new/stopwatch_min.v,1630432903,verilog,,,,stopwatch_minute,,,,,,,,
+C:/Users/prajw/Digital_Clock_Project/Digital_Clock_Project.srcs/sources_1/new/stopwatch_second.v,1630429591,verilog,,,,stopwatch_second,,,,,,,,
